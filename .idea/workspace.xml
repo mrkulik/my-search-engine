@@ -2,14 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f3756c2-0f40-4658-9915-0c723a7b40cb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/Presentation1.pptx" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/dataSources.ids" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/static/images/django.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/static/images/txhxib.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/static/images/zj47WNLU600.jpg" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/migrations/0002_urlvalue.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/migrations/0003_auto_20160523_1046.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/migrations/0004_auto_20160524_1857.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/parser/Search.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/migrations/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/parser/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/tweaks/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/third_lab/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/admin.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/templates/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/dataSources.local.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Lab3/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/dataSources.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Lab3/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/forms.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/parser/index.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/templates/index_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/manage.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Lab3/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/models.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/tweaks/models.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Lab3/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Lab3/.idea/other.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/other.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/templates/parse.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/parser/parser.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/requirements.txt" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Lab3/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/templates/search.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/templates/search_result.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/third_lab/settings.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Lab3/.idea/testrunner.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/testrunner.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/third_lab.iml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/templates/url_list.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/templates/url_value_edit.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/third_lab/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Lab3/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/search_engine/views.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/my_search_engine/third_lab/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
     </list>
     <ignored path="third_lab.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
-    <file path="/Dummy.txt" changelist="1f3756c2-0f40-4658-9915-0c723a7b40cb" time="1475236644168" ignored="false" />
+    <file path="/Dummy.txt" changelist="1f3756c2-0f40-4658-9915-0c723a7b40cb" time="1475274759464" ignored="false" />
     <file path="/Search.py" changelist="1f3756c2-0f40-4658-9915-0c723a7b40cb" time="1465396408289" ignored="false" />
     <file path="/parser.py" changelist="1f3756c2-0f40-4658-9915-0c723a7b40cb" time="1465396938362" ignored="false" />
     <file path="/settings.py" changelist="1f3756c2-0f40-4658-9915-0c723a7b40cb" time="1465638880263" ignored="false" />
@@ -169,7 +225,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
     <option name="myDateState">
@@ -235,7 +291,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lab3" />
+              <option name="myItemId" value="my-search-engine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -245,119 +301,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="third_lab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="third_lab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lab3" />
+              <option name="myItemId" value="my-search-engine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="search_engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="third_lab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="search_engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tweaks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="third_lab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="search_engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="third_lab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="search_engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="third_lab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="search_engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parser" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="third_lab" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lab3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="search_engine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="migrations" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -370,16 +318,17 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -496,29 +445,6 @@
       <option name="PARAMETERS" value="" />
       <method />
     </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="third_lab" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -540,6 +466,29 @@
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
       <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="third_lab" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -582,6 +531,12 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
     <configuration default="false" name="third_lab" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -609,8 +564,8 @@
       <method />
     </configuration>
     <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Django server.third_lab" />
-      <item index="1" class="java.lang.String" itemvalue="Python.parser" />
+      <item index="0" class="java.lang.String" itemvalue="Python.parser" />
+      <item index="1" class="java.lang.String" itemvalue="Django server.third_lab" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -651,19 +606,19 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32714286" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3020086" sideWeight="0.7157143" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30631277" sideWeight="0.7157143" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39967898" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.5030211" order="9" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28428572" sideWeight="0.6276435" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28428572" sideWeight="0.6276435" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32744783" sideWeight="0.49697885" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32714286" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3504" sideWeight="0.5694864" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
