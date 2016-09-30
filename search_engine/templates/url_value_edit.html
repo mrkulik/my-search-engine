@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Index</title>
+     {% include "bootstrap.html" %}
+</head>
+<body>
+<div class="container">
+    <div class="col-xs-10">
+<form action="/index/{{ urlvalue.id }}/" method="post">
+    {% csrf_token %}
+    <fieldset class="form-group">
+        <label for="urlvalueUrl">Url</label>
+        <input type="url" required class="form-control" id="urlvalueUrl" name="url" value="{{ urlvalue.url }}">
+    </fieldset>
+    <fieldset class="form-group">
+        <label for="urlvalueWord">Word</label>
+        <input type="text" required class="form-control" id="urlvalueWord" name="word" value="{{ urlvalue.word }}">
+    </fieldset>
+    <fieldset class="form-group">
+        <label for="urlvalueCount">Count</label>
+        <input type="text" required class="form-control" id="urlvalueCount" name="count" value="{{ urlvalue.count }}">
+    </fieldset>
+    <div class="form-group">
+        <input type="submit" class="btn btn-success">
+    </div>
+    <input type="hidden" name="id" value="{{ urlvalue.id }}">
+</form>
+    </div>
+</div>
+</body>
+</html>

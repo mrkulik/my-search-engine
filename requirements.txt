@@ -1,0 +1,3 @@
+beautifulsoup4==4.4.1
+Django==1.8.13
+mysqlclient==1.3.7

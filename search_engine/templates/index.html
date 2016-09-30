@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Main Page</title>
+    <style>
+#custom-search-input{
+    padding: 3px;
+    border: solid 1px #E4E4E4;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+#custom-search-input input{
+    border: 0;
+    box-shadow: none;
+}
+
+#custom-search-input button{
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    padding: 0 8px 0 10px;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover{
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search{
+    font-size: 23px;
+}
+    </style>
+    {% include "bootstrap.html" %}
+    <script>
+        function goToSearch() {
+            var query = document.getElementById("search_field").textContent;
+            alert(query);
+        }
+    </script>
+</head>
+<body>
+<div class="container">
+	<div class="row">
+        <div class="col-md-8 col-md-offset-2">
+    		<h2>Enter your search query</h2>
+            <form class = "bs-example bs-example-form" role = "form" action="/search/" method="get">
+                <div id="custom-search-input">
+                    <div class="input-group col-md-12">
+                        <input id="query" name="query" type="text" class="form-control input-lg" placeholder="Type here"/>
+                        <span class="input-group-btn">
+                            <button class="btn btn-info btn-lg" type="submit">
+                                <i class="glyphicon glyphicon-search"></i>
+                            </button>
+                        </span>
+                    </div>
+                </div>
+            </form>
+        </div>
+	</div>
+</div>
+  {% load staticfiles %}
+  <style>
+   .fig {
+    text-align: center;
+   }
+  </style>
+  <p class="fig"><img src="{% static "images/django.png" %}" alt="My image" width="500" /></p>
+    <div class="row">
+        <div class="col-md-5 col-md-offset-3">
+            <ul class="list-inline nav-justified">
+                <li><a href="/parse/">Add URLs for parsing</a> </li>
+                <li><a href="/urls/">List of parsed urls</a> </li>
+                <li><a href="https://www.yandex.ru">Click if need help</a> </li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
+

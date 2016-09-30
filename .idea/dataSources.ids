@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Django default" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="2ef264e9-7432-4897-88f0-97b3d8f1abb3">
+    <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+    <jdbc-url>jdbc:mysql:///rofl</jdbc-url>
+    <user-name>root</user-name>
+    <user-password>df9bdf98df99df9edf9fdf9cdf9ddf92</user-password>
+    <libraries>
+      <library>
+        <url>file://$USER_HOME$/Library/Preferences/PyCharm20/jdbc-drivers/mysql-connector-license.txt</url>
+      </library>
+      <library>
+        <url>jar://$USER_HOME$/Library/Preferences/PyCharm20/jdbc-drivers/mysql-connector-java-5.1.35-bin.jar!/</url>
+      </library>
+    </libraries>
+  </data-source>
+</component>
